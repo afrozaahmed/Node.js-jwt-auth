@@ -53,7 +53,7 @@ Integration on same Server/Port:
 
 ## Project setup
 ```
-npm install
+npm install (inside jwt-auth folder)
 ```
 
 ### Run
